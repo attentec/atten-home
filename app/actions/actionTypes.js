@@ -1,0 +1,8 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const CHANGE_POWER = 'CHANGE_POWER';
+export const CHANGE_DIMMER = "CHANGE_DIMMER";
+export const CHANGE_TEMP = "CHANGE_TEMP";
+export const DEVICES_LOADED ="DEVICES_LOADED";
+export const ROOMS_LOADED ="ROOMS_LOADED";
+export const HOUSES_LOADED ="HOUSES_LOADED";

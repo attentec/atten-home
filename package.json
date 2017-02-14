@@ -1,0 +1,21 @@
+{
+  "name": "AttenHome",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.20.0",
+    "react-native-chart": "^0.1.12",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1",
+    "redux-thunk": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.0-beta.6",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^4.2.3",
+    "react-native-chart-android": "https://github.com/tomasvidhall/react-native-chart-android/tarball/master"
+  }
+}
